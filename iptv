@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",IBC 13
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GMA 7
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KAPAMILYA
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+#EXTINF:0 tvg-id="PTVGlobal.uk" group-title="Channels",PTV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABC 5
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANC
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN PH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",A2Z
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",JEEPNEY TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Channels",CINEMA 1
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",CINEMAX
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/111.m3u8
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
+#EXTINF:0 tvg-id="a-one-ukr" group-title="Channels",ONE NEWS
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
+#EXTINF:0 tvg-id="Myx.us" group-title="Channels",MYX
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX 2
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SOLAR CHANNEL
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
+#EXTINF:0 tvg-id="FoxSports.tr" group-title="Channels",FOX SPORTS
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/119.m3u8
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PBA RUSH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SOLAR CHANNEL
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PINOY XTREME
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/124.m3u8
+#EXTINF:0 tvg-id="Animax.de" group-title="Channels",ANIMAX
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:0 tvg-id="Disney.uk" group-title="Channels",DISNEY
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",NAT GEO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KBS
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/131.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",W8
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8
+#EXTINF:0 tvg-id="NHK.mx" group-title="Channels",NHK
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/133.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CLTV36
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/134.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",K CHANNEL
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/135.m3u8
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="Channels",ZOOMOO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/136.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="Channels",CNN
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/140.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Flix HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/%26flix_HD.svg/revision/latest/scale-to-width-down/140?cb=20200430075753" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BlueAnt Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",BlueAnt Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BlueAnt Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",BlueAnt Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA One" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/CinemaOne.svg/revision/latest/scale-to-width-down/200?cb=20200506211757" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",CINEMA One
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema One Asia" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18102541/cinema-one-logo-300x300.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",Cinema One Asia
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Game_Show_Network_2018.svg/revision/latest/scale-to-width-down/200?cb=20181001190927" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",Game Show Channel
+https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/KBS_News_logo_old_2010s.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",KBS
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/131.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kbs_world.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies X" tvg-logo="https://cdn.onebauer.media/one/empire-images/articles/5876b9b7a45dfa2615051dc8/x-men-logo.png?format=jpg&quality=80&width=440&ratio=16-9&resize=aspectfill" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",Movies X
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/300?cb=20210206092434" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",Nick
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest?cb=20201209065132" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",PBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
+#EXTINF:-1 tvg-id="PBSKids(src04).za" tvg-name="PBS Kids (EST)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_%282009%29.svg/revision/latest/scale-to-width-down/150?cb=20171125102412" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",PBS Kids (EST)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SyFy" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Syfy-Logo-2009.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",SyFy
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
