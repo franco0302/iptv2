@@ -1,99 +1,297 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",IBC 13
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GMA 7
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KAPAMILYA
+#EXTINF:0 type="stream" channelId="-1", TELERADYO
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
+#EXTINF:0 type="stream" channelId="-1", GMA PINOY TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
+#EXTINF:0 type="stream" channelId="-1", KAPAMILYA CH SD
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
-#EXTINF:0 tvg-id="PTVGlobal.uk" group-title="Channels",PTV
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ABC 5
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANC
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN PH
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",A2Z
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",JEEPNEY TV
+#EXTINF:0 type="stream" channelId="-1", KAPAMILYA CH HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
+#EXTINF:0 type="stream" channelId="-1", GMA NEWS INTERNATIONAL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
+#EXTINF:0 type="stream" channelId="-1", GMA LIFE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
+#EXTINF:0 type="stream" channelId="140", TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV 5 HD
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ONEPH
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", ANC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
+#EXTINF:0 type="stream" channelId="-1", JEEPNEY TV
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
-#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Channels",CINEMA 1
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PBO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",CINEMAX
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/111.m3u8
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
-#EXTINF:0 tvg-id="a-one-ukr" group-title="Channels",ONE NEWS
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
-#EXTINF:0 tvg-id="Myx.us" group-title="Channels",MYX
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX 2
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/117.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SOLAR CHANNEL
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
-#EXTINF:0 tvg-id="FoxSports.tr" group-title="Channels",FOX SPORTS
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/119.m3u8
-#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA TV
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
-#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PBA RUSH
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SOLAR CHANNEL
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PINOY XTREME
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/124.m3u8
-#EXTINF:0 tvg-id="Animax.de" group-title="Channels",ANIMAX
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
-#EXTINF:0 tvg-id="Disney.uk" group-title="Channels",DISNEY
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",NAT GEO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KBS
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/131.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",W8
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8
-#EXTINF:0 tvg-id="NHK.mx" group-title="Channels",NHK
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/133.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CLTV36
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/134.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",K CHANNEL
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/135.m3u8
-#EXTINF:0 tvg-id="Zoomoo.br" group-title="Channels",ZOOMOO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/136.m3u8
-#EXTINF:0 tvg-id="CNN.nws" group-title="Channels",CNN
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/140.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Flix HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/%26flix_HD.svg/revision/latest/scale-to-width-down/140?cb=20200430075753" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BlueAnt Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",BlueAnt Entertainment
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BlueAnt Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",BlueAnt Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA One" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/CinemaOne.svg/revision/latest/scale-to-width-down/200?cb=20200506211757" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",CINEMA One
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema One Asia" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18102541/cinema-one-logo-300x300.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",Cinema One Asia
+#EXTINF:0 type="stream" channelId="-1", KNOWLEDGE CH HD
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEAMTV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ISLAND LIVING
+http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", NET25
+https://ebc.sytes.net/hls/net25.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNN PH
+https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEAMTV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1635746920_b1000000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1", LIFETVASIA
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CINEMA1 PH HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fe8a278cd5312f3.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cinema1 asia HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
-#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Game_Show_Network_2018.svg/revision/latest/scale-to-width-down/200?cb=20181001190927" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",Game Show Channel
-https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/KBS_News_logo_old_2010s.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",KBS
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/131.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kbs_world.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies X" tvg-logo="https://cdn.onebauer.media/one/empire-images/articles/5876b9b7a45dfa2615051dc8/x-men-logo.png?format=jpg&quality=80&width=440&ratio=16-9&resize=aspectfill" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",Movies X
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/300?cb=20210206092434" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",Nick
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest?cb=20201209065132" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",PBO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
-#EXTINF:-1 tvg-id="PBSKids(src04).za" tvg-name="PBS Kids (EST)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_%282009%29.svg/revision/latest/scale-to-width-down/150?cb=20171125102412" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",PBS Kids (EST)
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SyFy" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Syfy-Logo-2009.png" group-title="LOCAL&CABLE (AA Playlist)" tvg-shift="+8",SyFy
+#EXTINF:0 type="stream" channelId="-1", CINEMO PH HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
+#EXTINF:0 type="stream" channelId="2410", BABY FIRST
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="19", DISNEY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:0 type="stream" channelId="-1", ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", PBSKIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:0 type="stream" channelId="1197", DISNEY JUNIOR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:0 type="stream" channelId="-1", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:0 type="stream" channelId="-1", 3ABNKIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", HILLSONG
+http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+#EXTINF:0 type="stream" channelId="1328", FOX SPORTS
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/119.m3u8
+#EXTINF:0 type="stream" channelId="805", NBA TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
+#EXTINF:0 type="stream" channelId="4040", FIGHT SPORTS
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", PBA RUSH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
+#EXTINF:0 type="stream" channelId="-1", FOX SPORTS ASIA
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", GOLF TV
+http://203.162.235.41:16924
+#EXTINF:0 type="stream" channelId="-1", MBL NETWORK
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 type="stream" channelId="-1", MMA JANKIE
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:0 type="stream" channelId="-1", FITE
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:0 type="stream" channelId="118", BBC WORLD
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:0 type="stream" channelId="1862", FOX MOVIES
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1330", HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", HBO hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:0 type="stream" channelId="2584", HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", HBO RED
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:0 type="stream" channelId="1326", CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:0 type="stream" channelId="4036", PARAMOUNT NETWORK
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/677220
+#EXTINF:0 type="stream" channelId="139", FRANCE24
+http://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:0 type="stream" channelId="119", BLOOMBERG
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0 type="stream" channelId="50", ANIMAL PLANET
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+#EXTINF:0 type="stream" channelId="67", TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="721", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0 type="stream" channelId="171", DA VINCI
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="397", NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:0 type="stream" channelId="529", ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2344", TVN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", hallipop
+https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
+#EXTINF:0 type="stream" channelId="280", FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CHANNEL V
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1190", comedy central
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+#EXTINF:0 type="stream" channelId="177", FOX
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="178", FOX LIFE
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1", ZOOMO
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="1719", PARAMOUNT
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2035", LOVENATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 type="stream" channelId="893", CGTN
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="721", Nasa tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 type="stream" channelId="1333", REDBULLTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 type="stream" channelId="805", NBA TV
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2557", Warnertv
+http://203.154.243.89:11205/
+#EXTINF:0 type="stream" channelId="1573", AXN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF:0 type="stream" channelId="40", CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:0 type="stream" channelId="1389", GOLF CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+#EXTINF:0 type="stream" channelId="73", Syfy
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+#EXTINF:0 type="stream" channelId="-1", &iflix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ZEENEMA
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ONE SPORTS
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2007", SONY Movie Channel
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
+#EXTINF:0 type="stream" channelId="1326", CINEMAX
+http://36.37.252.114:888/Apple/OneTV-030
+#EXTINF:0 type="stream" channelId="2583", HBO SIGNATURE
+http://36.37.252.114:888/Apple/OneTV-032
+#EXTINF:0 type="stream" channelId="-1", HBO HITS HD
+http://36.37.252.114:888/Apple/OneTV-031
+#EXTINF:0 type="stream" channelId="2584", HBO FAMILY HD
+http://36.37.252.114:888/Apple/OneTV-033
+#EXTINF:0 type="stream" channelId="-1", HALLMARK HD
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/685298
+#EXTINF:0 type="stream" channelId="4585", HallMark Drama
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/683885
+#EXTINF:0 type="stream" channelId="-1", HALLMARKHD
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/13746
+#EXTINF:0 type="stream" channelId="2900", TNT HD
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/6354
+#EXTINF:0 type="stream" channelId="208", FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2493", FOX MOVIES HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8?
+#EXTINF:1 type="stream" channelId="-1", &FLIXHD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", &IPRIVEHD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="1286", Thrill
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+#EXTINF:0 type="stream" channelId="-1", WBTV
+http://203.154.243.89:1205
+#EXTINF:0 type="stream" channelId="1192", SYFYHD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+#EXTINF:0 type="stream" channelId="2258", DISNEY XD HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:0 type="stream" channelId="2720", DISNEY CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:0 type="stream" channelId="3331", DISNEYJUNIOR HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:0 type="stream" channelId="2719", CARTOON NETWORK HD
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/4886
+#EXTINF:0 type="stream" channelId="-1", NICK US HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:0 type="stream" channelId="2710", NICK JR HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/b222b06906f7b01.ts
+#EXTINF:0 type="stream" channelId="-1", NBA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:0 type="stream" channelId="-1", ESPN1
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTINF:0 type="stream" channelId="344", ESPN2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+#EXTINF:0 type="stream" channelId="1191", COMEDY CENTRAL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+#EXTINF:0 type="stream" channelId="341", DISCOVERY CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+#EXTINF:0 type="stream" channelId="58", Discovery Science
+http://supersonictv.live:25461/903310/034806/22077
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY FAMILY HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
+#EXTINF:0 type="stream" channelId="1456", HISTORY HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#EXTINF:0 type="stream" channelId="-1", E\\,ENTERTAINMENT HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+#EXTINF:0 type="stream" channelId="-1", Blue ant CV HD
+http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
+#EXTINF:0 type="stream" channelId="-1", EGG NETWORK
+http://45.126.83.51/uq2663/h/h22/index.m3u8
+#EXTINF:0 type="stream" channelId="1333", RedbullTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 type="stream" channelId="-1", CHANNEL V HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="237", MTV LIVE HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF:0 type="stream" channelId="-1", MTV LIVE US
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/683372
+#EXTINF:0 type="stream" channelId="-1", MTV BLOCK PARTY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=868&deviceId=5d3609cd6a6c78d7672f2a81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1", CNN US HD
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/4919
+#EXTINF:0 type="stream" channelId="527", CNBC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501
+#EXTINF:0 type="stream" channelId="1244", FOOD NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
+#EXTINF:0 type="stream" channelId="1573", AXN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF:0 type="stream" channelId="1189", CRIME INVESTIGATION
+http://supersonictv.live:25461/903310/034806/22071
+#EXTINF:0 type="stream" channelId="-1", BLOOMBERG TV ASIA
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEAM TV PILIPINAS
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BLOOMBERGE TV
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:0 type="stream" channelId="2540", ESPN
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:0 type="stream" channelId="344", ESPN2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:0 type="stream" channelId="-1", FAMILY FEUD XUMO
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", FEAR FACTOR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c362ded581a86051df509b4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1", HALLMARK MOVIES
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4584", HALLMARK MOVIES AND MYSTERIES
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", HALLMARK CHANNEL
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4585", HALLMARK DRAMA
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", HI-YA
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", HI-YA XUMO
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", HOLLYWIRE
+https://hollywire.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", HORROR TV
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1", KIDS JR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1", KIDOODLE
+http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", KIDOODLE TV
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:0 type="stream" channelId="-1", MLB
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1", MOVIE CHANNEL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="1236", MOVIE MIX
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", MOVIES KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:0 type="stream" channelId="1236", MOVIE MIX
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:0 type="stream" channelId="253", zee tv
+http://sonyiptv.net:8080/1255/1255/22294
+#EXTINF:0 type="stream" channelId="-1", WBTV
+http://203.154.243.89:11205/
+#EXTINF:0 type="stream" channelId="-1", NETFLIX MARVEL
+http://sonyiptv.net:8080/1255/1255/27416
